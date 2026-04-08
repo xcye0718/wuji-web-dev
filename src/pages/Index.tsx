@@ -104,7 +104,7 @@ const Index = () => {
             <div>
               <FadeIn>
                 <p className="text-xs font-medium tracking-[0.2em] text-muted-foreground uppercase mb-6">
-                  SLEEP SENSING · AI ANALYSIS · INTERVENTION
+                  SLEEP MONITORING · AI ANALYSIS · INTERVENTION
                 </p>
               </FadeIn>
               <FadeIn delay={0.1}>
